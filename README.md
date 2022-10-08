@@ -1,3 +1,6 @@
+# Link to the GitHub repo
+https://github.com/mantcep/build-ml-pipeline-for-short-term-rental-prices
+
 # Link to corresponding W&B project
 https://wandb.ai/mantcep/nyc_airbnb
 
